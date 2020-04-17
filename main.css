@@ -1,0 +1,14 @@
+/* Styles go here */
+body{
+    background-color:orange;
+    text-align: center;
+    font-family:arial;
+    color:black;
+    font-size:30px;
+}
+
+p{
+    text-align: center;
+    font-family:courier;
+    padding:70px;
+}
